@@ -1,6 +1,6 @@
 {
   "name": "dhan-sdk",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1",
   "description": "The official TypeScript library for the Dhan SDK API",
   "author": "Dhan SDK <dev-feedback@dhan-sdk.com>",
   "types": "dist/index.d.ts",
